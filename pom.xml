@@ -49,9 +49,9 @@
     </distributionManagement>
 
     <scm>
-        <url>https://github.ibm.com/rampkatt/MavenRelaseTest</url>
-        <connection>scm:git:ssh://git@github.ibm.com:rampkatt/MavenRelaseTest.git</connection>
-        <developerConnection>scm:git:ssh://git@github.ibm.com:rampkatt/MavenRelaseTest.git</developerConnection>
+        <url>https://github.com/pavankumar1412/MavenReleaseTest</url>
+        <connection>scm:git:ssh://git@github.com:pavankumar1412/MavenReleaseTest.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:pavankumar1412/MavenReleaseTest.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 </project>
