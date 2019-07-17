@@ -51,7 +51,6 @@
     <scm>
         <url>https://github.com/pavankumar1412/MavenReleaseTest</url>
         <connection>scm:git:ssh://git@github.com:pavankumar1412/MavenReleaseTest.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:pavankumar1412/MavenReleaseTest.git</developerConnection>
-        <tag>HEAD</tag>
+        <developerConnection>scm:git:ssh://pavankumar1412@github.com:pavankumar1412/MavenReleaseTest.git</developerConnection>
     </scm>
 </project>
